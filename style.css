@@ -1,0 +1,28 @@
+.top-container-father {
+    display: flex;
+    justify-content: left;
+}
+.top-container-child {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 20px;
+}
+.middle-container-father {
+    display: flex;
+    justify-content: center;
+}
+.middle-container-child {
+    width: 200px;
+    height: 200px;
+    border: 20px solid black;
+}
+.bottom-container-father {
+    display: flex;
+    justify-content: right;
+}
+.bottom-container-child {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+}
